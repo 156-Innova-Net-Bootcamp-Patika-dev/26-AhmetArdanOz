@@ -1,7 +1,7 @@
 # AhmetArdanOz
-Week2 Database Project
-BookStore Database
-added diagram, index, view on tbl_Books
+<h1> Week2 Database Project </h1> <br>
+<h2> BookStore Database </h2> <br>
+<p> added diagram, index, view on tbl_Books </p>
 
 
 ![diagram](https://user-images.githubusercontent.com/86769140/150382828-b9719661-792b-47b2-ac0a-9262200401c2.png)
